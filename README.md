@@ -17,3 +17,35 @@
     <img src="https://img.shields.io/npm/l/aveditor.svg" alt="License">
   </a>
 </p>
+
+
+## Roadmap
+
+### Core
+
+- [ ] Core container
+- [ ] Plug-in system
+- [ ] Multi-person collaboration
+
+## Plugins
+
+- [ ] Moveable
+- [ ] Rotatable
+- [ ] Adsorbable
+- [ ] Resizable
+- [ ] Scalable
+- [ ] Multiple selection
+- [ ] Auxiliary line
+- [ ] Image element
+- [ ] Text element (RichText and SelectRange)
+- [ ] Element animation
+- [ ] Multi frame transition
+- [ ] GIF element
+- [ ] MP4 element
+
+### Codec and exports
+
+- [ ] PNG / JPEG / WEBP
+- [ ] GIF
+- [ ] MP3
+- [ ] MP4

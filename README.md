@@ -27,7 +27,7 @@
 - [ ] Plug-in system
 - [ ] Multi-person collaboration
 
-## Plugins
+### Plugins
 
 - [ ] Moveable
 - [ ] Rotatable
